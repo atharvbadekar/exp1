@@ -1,0 +1,8 @@
+open vs code
+create java file 
+hello world code
+pom.xml file
+paste code
+
+at side of terminal new terminal run this command
+mvn clean package

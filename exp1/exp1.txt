@@ -1,0 +1,16 @@
+create a folder 
+exp1
+open cmd
+git init 
+create text file
+git status -cmd
+git add .
+git commit -m "hii"
+git branch
+git branch feature
+git checkout feature
+git merge feature
+git remote add orgin githublink
+git checkout master
+git push origin master
+goto github and refresh you can see the file

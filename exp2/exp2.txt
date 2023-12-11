@@ -1,0 +1,12 @@
+create folder 
+open cmd
+git clone github link
+git init 
+create text file
+git status -cmd
+git add .
+git commit -m "hii"
+git branch
+git branch feature/main/master
+git push origin feature/main/master
+goto github and refresh you can see the file

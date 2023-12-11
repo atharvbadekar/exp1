@@ -1,0 +1,11 @@
+open docker desktop
+open vs code
+create two files
+at the side of treminal click on new terminal
+run this commnad
+
+docker build -t my-apache-server .
+
+after this command
+docker run -p 8080:80 -d my-apache-server 
+ the goto docker and click on the container port 8080:80
